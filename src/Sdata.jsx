@@ -29,6 +29,12 @@ const Sdata = [
         title: "Netflix original Series",
         links: "https://www.netflix.com/in/title/80057281",
     },
+    {
+        sname: "Money Heist",
+        imgsrc: "https://wallpapercave.com/wp/wp6201564.jpg",
+        title: "Netflix original Series",
+        links: "https://www.netflix.com/in/title/80192098",
+    },
 ];
 
 export default Sdata;
